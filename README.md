@@ -1,5 +1,5 @@
 # _tools_bug_
-# _Una lista seleccionada de varias herramientas de recompensas por errores_
+_Una lista seleccionada de varias herramientas de recompensas por errores_
 
 # _Recon_
 
